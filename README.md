@@ -1,4 +1,9 @@
-# gov_fornecedores_cnae
-Script Python para scraping de fonte de dados do governo de fornecedores que participaram de licitações.
+# python_utils
+Scripts Python de utilidade geral
 
-Informar CNAE e UF e será gerado arquivo .CSV com as informações.
+
+- gov_fornecedores_cnae.py
+  
+  Scraping de dados do governo buscando informações de fornecedores.
+  
+  Informar CNAE e UF e será gerado arquivo .CSV com as informações dos fornecedores.
